@@ -27,4 +27,4 @@
 
 ---
 
-<p align="center">🌱 always learning, always breaking stuff</p>
+<p align="center">🌱 always learning, always breaking stuff.</p>
