@@ -1,7 +1,7 @@
 <h1 align="center">𝙅𝙪𝙣𝙞𝙤𝙧 𝙣👀𝙗 𝙙𝙚𝙫 𝙩𝙧𝙮𝙞𝙣𝙜 𝙣𝙤𝙩 𝙩𝙤 𝙗𝙧𝙚𝙖𝙠 𝙚𝙫𝙚𝙧𝙮𝙩𝙝𝙞𝙣𝙜 💀</h1>
 
 ## 🌐 Socials:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ethvoidc@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romnickjames27@gmail.com)
 
 ## 💻 Tech Stack:
 <p align="center">
